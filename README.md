@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **webdevops.contato@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/israelcrispim/](https://www.linkedin.com/in/israelcrispim/)
-
 - ⚡ Fun fact **It's all in English but I don't speak English I just know how to read kkk**
 
 <h3 align="left">Connect with me:</h3>
